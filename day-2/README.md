@@ -1,7 +1,7 @@
 #  TerraWeek Challenge 2026 - Day 2
 
 ##  Date
-14 July 2026
+13 July 2026
 
 ## Topic
 Terraform Configuration Language (HCL) – Variables, Types & Expressions

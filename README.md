@@ -26,10 +26,9 @@ The goal is to build production-ready Infrastructure as Code skills while follow
 |-----|-----------------------------|--------|
 | Day 1 | Terraform Basics & IaC | ✅ Completed |
 | Day 2 | Variables & Expressions | ✅ Completed |
-| Day 3 | Providers & Resources | ⏳ |
-| Day 4 | Terraform State & Backend | ⏳ |
-| Day 5 | Modules | ⏳ |
-| Day 6 | Capstone Project | ⏳ |
+| Day 3 | Providers & Resources | ✅ Completed |
+| Day 4 | Terraform State & Backend | ✅ Completed |
+
 
 ---
 

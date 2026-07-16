@@ -28,6 +28,7 @@ The goal is to build production-ready Infrastructure as Code skills while follow
 | Day 2 | Variables & Expressions | ✅ Completed |
 | Day 3 | Providers & Resources | ✅ Completed |
 | Day 4 | Terraform State & Backend | ✅ Completed |
+| Day  | Terraform modules | ✅ Completed |
 
 
 ---
@@ -43,6 +44,7 @@ terraform-devops-challenge-2026
 ├── day-4/
 ├── day-5/
 ├── day-6/
+├── day-7/
 └── README.md
 ```
 

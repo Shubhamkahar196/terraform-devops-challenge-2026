@@ -28,7 +28,8 @@ The goal is to build production-ready Infrastructure as Code skills while follow
 | Day 2 | Variables & Expressions | ✅ Completed |
 | Day 3 | Providers & Resources | ✅ Completed |
 | Day 4 | Terraform State & Backend | ✅ Completed |
-| Day  | Terraform modules | ✅ Completed |
+| Day 5 | Terraform modules | ✅ Completed |
+| Day 6 | Terraform providers | ✅ Completed |
 
 
 ---

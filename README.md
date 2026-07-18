@@ -30,6 +30,7 @@ The goal is to build production-ready Infrastructure as Code skills while follow
 | Day 4 | Terraform State & Backend | ✅ Completed |
 | Day 5 | Terraform modules | ✅ Completed |
 | Day 6 | Terraform providers | ✅ Completed |
+| Day 7 | Final AWS Infrastructure Project | ✅ Completed |
 
 
 ---
@@ -46,16 +47,22 @@ terraform-devops-challenge-2026
 ├── day-5/
 ├── day-6/
 ├── day-7/
+│   └── terraform-final-project/
 └── README.md
 ```
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
 - Terraform v1.15.8
-- Infrastructure as Code (IaC)
-- AWS (Upcoming)
+- AWS EC2
+- AWS VPC
+- AWS Internet Gateway
+- AWS Route Tables
+- AWS Security Groups
+- Docker
+- Docker Compose
 - Git & GitHub
 - VS Code
 
@@ -78,6 +85,11 @@ Throughout this challenge, I will:
 By the end of this challenge, I aim to build a complete AWS infrastructure using Terraform following DevOps best practices.
 
 ---
+# 👨‍💻 Author
+
+**Shubham Kahar**
+
+MERN Stack Developer | DevOps Enthusiast
 
 ##  Connect With Me
 
